@@ -1,3 +1,30 @@
+/********************************************************************
+ Given two strings,  and , that may or may not be of the same length, 
+ determine the minimum number of character deletions required to make  
+ and  anagrams. Any characters can be deleted from either of the strings.
+
+ In other words, both strings must contain the same exact letters in the 
+ same exact frequency For example, bacdc and dcbac are anagrams, 
+ but bacdc and dcbad are not.
+
+ Input Format
+
+The first line contains a single string, a. 
+The second line contains a single string, b.
+
+Output Format
+
+Print a single integer denoting the number of characters you must delete 
+to make the two strings anagrams of each other.
+
+Sample Input
+cde
+abc
+
+Sample Output
+4
+********************************************************************/
+
 #include <iostream>
 #include <map>
 
