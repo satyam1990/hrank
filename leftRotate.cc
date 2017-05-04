@@ -12,19 +12,19 @@
  The first line contains two space-separated integers denoting the respective values of  
  (the number of integers) and  (the number of left rotations you must perform). 
  The second line contains  space-separated integers describing the respective 
-elements of the array's initial state.
+ elements of the array's initial state.
 
-Output Format
+ Output Format
 
-Print a single line ofspace-separated integers denoting the final state of 
-the array after performing left rotations.
+ Print a single line ofspace-separated integers denoting the final state of 
+ the array after performing left rotations.
 
-Sample Input
-5 4
-1 2 3 4 5
+ Sample Input
+ 5 4
+ 1 2 3 4 5
 
-Sample Output
-5 1 2 3 4
+ Sample Output
+ 5 1 2 3 4
 
 ********************************************************************/
 

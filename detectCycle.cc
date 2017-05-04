@@ -4,7 +4,8 @@
 
  Your function must return a boolean denoting whether or not there is a cycle 
  in the list. If there is a cycle, return true; otherwise, return false.
- *******************************************************************/
+
+********************************************************************/
 
 #include <iostream>
 
